@@ -1,4 +1,4 @@
-
+{
 	"item.schoolmod.textbook": "空白教科书",
 	"block.schoolmod.desk": "课桌",
 	"itemGroup.tabSchoolMod": "School Mod",
@@ -55,3 +55,4 @@
 	"item.schoolmod.philosophy_textbook": "哲学书",
 	"item.schoolmod.psychology_textbook": "心理学",
 	"item.schoolmod.business_textbook": "商务学"
+}
